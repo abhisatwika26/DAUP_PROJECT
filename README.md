@@ -12,3 +12,8 @@ The project highlights the importance of tailored preprocessing, model selection
 based evaluation in driving successful data-driven solutions. It reflects a comprehensive 
 application of theoretical knowledge to real-world datasets and builds a strong foundation for 
 future work in data science and AI.
+
+Datasets links :
+Air Quality and Health Impact (CSV) - https://www.kaggle.com/datasets/rabieelkharoua/air-quality-and-health-impact-dataset
+Image Dataset (Image) - https://www.kaggle.com/datasets/pavansanagapati/images-dataset
+English Word Difficulty Classification(Text) - https://data.mendeley.com/datasets/p2wrs7hm4z/4
